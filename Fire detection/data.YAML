@@ -1,0 +1,6 @@
+train: C:\Users\nikhi\PycharmProjects\fire_\train\images
+val: C:\Users\nikhi\PycharmProjects\fire_\valid\images
+test: C:\Users\nikhi\PycharmProjects\fire_\test\images
+
+nc: 3
+names: ['Fire', 'Smoke', 'human']
