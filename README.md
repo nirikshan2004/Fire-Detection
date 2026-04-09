@@ -117,3 +117,8 @@ MONGO_URI=your_mongodb_connection_string
 ---
 
 ## 📁 Project Structure
+
+
+
+<img width="1591" height="714" alt="image" src="https://github.com/user-attachments/assets/1fce2210-0c96-406c-8ddd-89ef735aa540" />
+
